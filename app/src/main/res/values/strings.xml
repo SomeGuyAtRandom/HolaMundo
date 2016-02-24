@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">HolaMundo</string>
+
+    <string-array name="spinner_array">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>GoBack</item>
+    </string-array>
+
 </resources>
